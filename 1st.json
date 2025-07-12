@@ -1,0 +1,16 @@
+{
+  "materials": [
+    {
+      "name": "Engg. Physics 1",
+      "imgUrl": "https://m.media-amazon.com/images/I/516tWnCK01L._UF1000,1000_QL80_.jpg",
+      "downloadUrl": "drive.google.com/s/123"
+    },
+    {
+      "name": "Engg. Physics 2",
+      "imgUrl": "https://m.media-amazon.com/images/I/516tWnCK01L._UF1000,1000_QL80_.jpg",
+      "downloadUrl": "drive.google.com/s/123"
+    }
+  ],
+  "syllabus": {},
+  "papers": {}
+}
